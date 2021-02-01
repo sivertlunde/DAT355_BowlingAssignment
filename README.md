@@ -8,7 +8,7 @@ all Bowling_model... directories
 
 # Usage & EMF Forms
 
-I had trouble launching the RAP application. When i right clicked the .launch file and selected run as RAP application, it triggered the editor program Atom every time. It never opened a browser and I was unable to find the content on the same URL pictured in the tutorial. 
+I had trouble launching the RAP application. When i right clicked the .launch file and selected run as RAP application, it triggered the editor program Atom to open every time. It never opened anything specific in Atom, only the program itself.. It never opened a browser and I was unable to find the content on the same URL pictured in the tutorial. 
 
 Includes:<br/>
 all org.eclipse... directories<br/>
