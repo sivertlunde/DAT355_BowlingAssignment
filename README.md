@@ -13,3 +13,27 @@ I had trouble launching the RAP application. When i right clicked the .launch fi
 Includes:<br/>
 all org.eclipse... directories<br/>
 Families2Persons
+
+# Using ETL
+
+### Exercise 1
+
+
+1.
+
+Famlies2Persons:
+Takes a model as input, gives a model as output = model-to-model
+Gives a different model as output than it received as input = out-place
+Model goes through detailed step by step transforamtion = imperative
+It takes several steps from start to finish = heterogeneous
+
+
+2.
+
+I'm not very familiar with the details of a compiler, but yes - I would consider its components as model transformations. Each component takes an input, applies a given set of rules or translations to that input and gives a different output to the next component. From the figure in the task, you can see that the simplifier takes CoreExpr as input and gives CoreExpr as output. In this case there has been an in-place transformation where certain rules where applied to the input to give a modified output. The same basic steps seem to apply to all components of a compiler.
+
+
+### Exercise 2
+
+
+I don't know what to say.. I have tried to do this task for hours. I don't understand it. I have tried looking at the task description over and over - I don't know where to start, I don't know where to continue. I have looked up tutorials for EGL and watched videos, but I just don't get it. I am demoralized and deflated and have essentially given up at this point. This type of task - where we have a very open description of the task, no step by step guide to help, and no solution to help - once you don't know how to continue, you're just stuck.
