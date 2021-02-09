@@ -21,11 +21,11 @@ Families2Persons
 
 1.
 
-Famlies2Persons:
-Takes a model as input, gives a model as output = model-to-model
-Gives a different model as output than it received as input = out-place
-Model goes through detailed step by step transforamtion = imperative
-It takes several steps from start to finish = heterogeneous
+Famlies2Persons:<br/>
+Takes a model as input, gives a model as output = model-to-model<br/>
+Gives a different model as output than it received as input = out-place<br/>
+Model goes through detailed step by step transforamtion = imperative<br/>
+It takes several steps from start to finish = heterogeneous<br/>
 
 
 2.
